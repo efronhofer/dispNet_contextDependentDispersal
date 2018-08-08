@@ -7,7 +7,7 @@ Emanuel A. Fronhofer, Delphine Legrand, Florian Altermatt, Armelle Ansart, Simon
 
 Summary
 ---------------------------------------------------------------------
-Data and code used within this [dispNet](https://dispnet.github.io/) project published under the title "Bottom-up and top-down control of dispersal across major organismal groups" in Nature Ecology and Evolution. A preprint version can be found on [bioRxiv](https://dx.doi.org/10.1101/213256).
+Data and code used within this [dispNet](https://dispnet.github.io/) project published under the title "Bottom-up and top-down control of dispersal across major organismal groups" in Nature Ecology and Evolution. A preprint version can be found on [bioRxiv](https://doi.org/10.1101/213256).
 
 Meta information
 ---------------------------------------------------------------------
