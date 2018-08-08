@@ -12,3 +12,5 @@ Data and code used within this [dispNet](https://dispnet.github.io/) project pub
 Meta information
 ---------------------------------------------------------------------
 The folder "data" contains the main data set as a text file. The "species" column specifies the species names, while RA and PRED refer to the treatment levels of resource availability and predation risk. Replicates and blocks are specified. "no_residents" and "no_dispersers" respectively refer to the measured number of residents (individuals remaining in the origin patch) and dispersers (individuals that have dispersed to the target patch). The data in the columns "relevant_taxon" and "lab" were used as random effects to correct for phylogeny and experimenters.
+
+The folder "code" contains an R-script with a simulation of the model described in detail in the paper. This script reproduces the results shown in Fig. 2.
